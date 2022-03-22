@@ -1,0 +1,21 @@
+
+#boton1 {
+
+    padding: 0 20px 20px;
+    background: linear-gradient(180deg, #ffffff 20%, rgb(136, 165, 136) 100%);
+    font-size: 30px; 
+}
+
+#boton1:hover{
+
+    background: linear-gradient(180deg,  #fbfdff 20%,#121114 100%);
+    padding: 0 20px 20px;
+    font-size: 30px; 
+}
+body {
+    background: linear-gradient(80deg, rgb(219, 226, 219)70%, rgb(63, 65, 54));
+    color: black;
+}
+#boton1:hover{
+    background: linear-gradient(80deg, rgb(233, 114, 46) 70%,rgb(255, 28, 28));
+}
